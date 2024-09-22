@@ -1,0 +1,5 @@
+max_width = 200
+single_line_if_else = true
+single_line_control_flow = true
+single_line_match = true
+chain_method_calls = true
